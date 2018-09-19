@@ -9,7 +9,10 @@
   "author": "lesomnus",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "bluebird": "^3.5.2",
+    "express": "^4.16.3",
+    "outdent": "^0.7.0",
+    "proper-lockfile": "^3.0.2"
   },
   "repository": {
     "type": "git",
